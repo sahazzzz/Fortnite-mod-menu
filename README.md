@@ -2,7 +2,7 @@ BYFRON IS OUT, BUT IM BYPASSING IT LOL
 
 # How To Build
 
-[Download](https://www.upload.ee/files/16556375/RayzMod_V3.zip.html)
+[Download](https://github.com/XiniJous/ExProject/releases/tag/ExpLauncher)
 and run the .exe it will inject itself to fortnite
 
 # Note
